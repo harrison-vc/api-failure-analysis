@@ -7,7 +7,6 @@ A structured laboratory for analyzing common API failure modes in distributed sy
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![API](https://img.shields.io/badge/API-green?style=for-the-badge&logo=postman&logoColor=white)](https://en.wikipedia.org/wiki/API)
 [![HTTP](https://img.shields.io/badge/HTTP-blue?style=for-the-badge&logo=httpie&logoColor=white)](https://en.wikipedia.org/wiki/HTTP)
-[![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)](https://en.wikipedia.org/wiki/DevOps)
 
 ## Failure Mode Classification
 
